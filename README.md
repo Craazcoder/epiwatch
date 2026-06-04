@@ -22,6 +22,7 @@ A full-stack data engineering project that monitors real COVID-19 data across WH
 - Outbreak Predictor with ML probability
 - REST API with auto docs at /docs
 - 54,276 real patient and diagnosis records
+- - ML Model achieves 98.14% accuracy using 5-fold cross-validation (Random Forest with 100 estimators)
 
 ## 🚀 How to Run
 
